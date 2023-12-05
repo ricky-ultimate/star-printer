@@ -1,0 +1,3 @@
+D:/CSC/CSC in-class-work/CSC 201/1/cmake-build-debug/CMakeFiles/1.dir
+D:/CSC/CSC in-class-work/CSC 201/1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CSC/CSC in-class-work/CSC 201/1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
